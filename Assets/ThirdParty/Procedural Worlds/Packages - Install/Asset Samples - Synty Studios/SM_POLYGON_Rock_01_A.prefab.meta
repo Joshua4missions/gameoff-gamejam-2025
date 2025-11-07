@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f0521b273ecff9940ba77cdf31af266a
+timeCreated: 1525243597
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 0
+  packageName: Asset Samples - Synty Studios
+  packageVersion: 4.1.5
+  assetPath: Assets/ThirdParty/Procedural Worlds/Packages - Install/Asset Samples - Synty Studios/SM_POLYGON_Rock_01_A.prefab
+  uploadId: 792268

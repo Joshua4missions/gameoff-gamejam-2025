@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e31fd59401aad3747990f06e06debc6d
+timeCreated: 1508123204
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 0
+  packageName: URP Extract Me
+  packageVersion: 1.9.5
+  assetPath: Assets/ThirdParty/PolygonDungeon/Materials/Misc/Dungeon_Material_TextureWalls.mat
+  uploadId: 0

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9181d5d5a40550740a28a9aa8b2ba713
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 0
+  packageName: Standard FANTASTIC Village Pack U 6
+  packageVersion: 2.1
+  assetPath: Assets/ThirdParty/Fantastic Village Pack/shaders/S_foliage_wind_standard_simple_FVP.shader
+  uploadId: 806298

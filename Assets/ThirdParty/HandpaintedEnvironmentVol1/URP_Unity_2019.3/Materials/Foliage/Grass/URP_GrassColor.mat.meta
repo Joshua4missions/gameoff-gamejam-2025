@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0342a3f1a4302c949b2edab995570e8c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 0
+  packageName: URP Handpainted Vol1 2019.3
+  packageVersion: 1.4
+  assetPath: Assets/ThirdParty/HandpaintedEnvironmentVol1/URP_Unity_2019.3/Materials/Foliage/Grass/URP_GrassColor.mat
+  uploadId: 395215

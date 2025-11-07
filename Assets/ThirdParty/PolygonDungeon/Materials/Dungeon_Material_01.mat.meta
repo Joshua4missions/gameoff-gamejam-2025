@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 42b64fdb315e3054ea757d8d1c4bcfa7
+timeCreated: 1505951128
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 0
+  packageName: URP Extract Me
+  packageVersion: 1.9.5
+  assetPath: Assets/ThirdParty/PolygonDungeon/Materials/Dungeon_Material_01.mat
+  uploadId: 0

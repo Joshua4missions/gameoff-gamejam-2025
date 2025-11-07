@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0f6628793d1fe9149ad20c89251f2a53
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155993
+  packageName: Stylized Fantasy : Forest Environment
+  packageVersion: 1.4
+  assetPath: Assets/ThirdParty/HandpaintedEnvironmentVol1/Shaders/HandpaintedBaseShader.shader
+  uploadId: 395215

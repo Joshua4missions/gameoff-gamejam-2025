@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 676d51a93fad6434bb7ee1f64ad89551
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 0
+  packageName: Gaia
+  packageVersion: 4.1.5
+  assetPath: Assets/ThirdParty/Procedural Worlds/Packages - Install/Gaia/Shaders/PW General/PW_General_Deferred.shader
+  uploadId: 792268

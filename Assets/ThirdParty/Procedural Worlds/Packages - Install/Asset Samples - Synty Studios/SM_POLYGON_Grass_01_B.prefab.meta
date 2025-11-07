@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 91281fbc8889be54f9e35ce19c72b52b
+timeCreated: 1525243551
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 0
+  packageName: Asset Samples - Synty Studios
+  packageVersion: 4.1.5
+  assetPath: Assets/ThirdParty/Procedural Worlds/Packages - Install/Asset Samples - Synty Studios/SM_POLYGON_Grass_01_B.prefab
+  uploadId: 792268

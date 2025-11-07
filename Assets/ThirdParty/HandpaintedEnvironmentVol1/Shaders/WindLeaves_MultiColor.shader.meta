@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 84c1c5caed73c3646a18c8e2539aa271
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155993
+  packageName: Stylized Fantasy : Forest Environment
+  packageVersion: 1.4
+  assetPath: Assets/ThirdParty/HandpaintedEnvironmentVol1/Shaders/WindLeaves_MultiColor.shader
+  uploadId: 395215

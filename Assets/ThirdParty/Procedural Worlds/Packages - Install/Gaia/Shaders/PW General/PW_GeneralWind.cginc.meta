@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 598593ee2b5911e44b9b03c445696d9b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 0
+  packageName: Gaia
+  packageVersion: 4.1.5
+  assetPath: Assets/ThirdParty/Procedural Worlds/Packages - Install/Gaia/Shaders/PW General/PW_GeneralWind.cginc
+  uploadId: 792268

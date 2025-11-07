@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 72462e7bb7591b4418a705a37fe544ac
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 0
+  packageName: Gaia
+  packageVersion: 4.1.5
+  assetPath: Assets/ThirdParty/Procedural Worlds/Packages - Install/Gaia/Shaders/PW General/PW_Details_Foliage_BuiltIn.shader
+  uploadId: 792268

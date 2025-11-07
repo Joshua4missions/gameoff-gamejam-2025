@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8fc263f4ca2ab4643a566aa4ce8326f4
+timeCreated: 1525241781
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 0
+  packageName: Asset Samples - Synty Studios
+  packageVersion: 4.1.5
+  assetPath: Assets/ThirdParty/Procedural Worlds/Packages - Install/Asset Samples - Synty Studios/SM_POLYGON_Tree_02_A.prefab
+  uploadId: 792268

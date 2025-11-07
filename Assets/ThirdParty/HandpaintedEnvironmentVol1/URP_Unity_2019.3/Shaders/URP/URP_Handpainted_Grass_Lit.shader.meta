@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5c3154d4d9372104c9d81f56aa26a3ef
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 0
+  packageName: URP Handpainted Vol1 2019.3
+  packageVersion: 1.4
+  assetPath: Assets/ThirdParty/HandpaintedEnvironmentVol1/URP_Unity_2019.3/Shaders/URP/URP_Handpainted_Grass_Lit.shader
+  uploadId: 395215

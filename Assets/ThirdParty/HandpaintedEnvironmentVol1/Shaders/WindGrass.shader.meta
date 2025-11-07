@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a0b0958516c01fd4bb99d594100f78c7
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155993
+  packageName: Stylized Fantasy : Forest Environment
+  packageVersion: 1.4
+  assetPath: Assets/ThirdParty/HandpaintedEnvironmentVol1/Shaders/WindGrass.shader
+  uploadId: 395215
