@@ -1,6 +1,5 @@
 fileFormatVersion: 2
 guid: e5ddd8b1cd8e4479a78cd3bf0d1bc0a7
-timeCreated: 1670583274
 AssetOrigin:
   serializedVersion: 1
   productId: 253446
@@ -8,3 +7,12 @@ AssetOrigin:
   packageVersion: 2.2.12
   assetPath: Assets/Plugins/GameCreator/Packages/Melee/Runtime/Classes/Striker/StrikerCapsule.cs
   uploadId: 742347
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
